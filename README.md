@@ -1,6 +1,6 @@
 # Neuron-style-transfer
 
-Using models: VGG16 VGG19 ResNet from torchvision model
+Using models: VGG16 VGG19 ResNet50 from torchvision model
 
 I have made 3 experiments with different input content and style images.<br>
 All 3 generative output pictures went trough 50 epochs on each CNN<br>
