@@ -14,6 +14,8 @@
 ## ResNet50:<br/>
 <img src="output images/ResNet50_1.png"  width="300"/>
 <br/>
+<br/>
+<br/>
 
 <img src="style and content images/content2.jpeg" width="300"/>  +  <img src="style and content images/style2.jpeg" height="300"/> =
 <br/>
