@@ -1,7 +1,9 @@
 # Neuron-style-transfer
 
+Using models: VGG16 VGG19 ResNet from torchvision model
+
 I have made 3 experiments with different input content and style images.<br>
-All 3 generative output pictures went trough 50 epochs on each CNN: Vgg 16, Vgg 19 and ResNet 50<br>
+All 3 generative output pictures went trough 50 epochs on each CNN<br>
 
 ResNet (as it expected) appears more powerful in Neuron Style Transfer. But Vgg 19 showed worse results then Vgg 16 - I explain it as the result of better choice style and content layers/weights on Vgg 16 than on Vgg 19. So I think we can reach much better results on Vgg 19 and even on ResNet if try to experiment with style/content layers weights.
 
