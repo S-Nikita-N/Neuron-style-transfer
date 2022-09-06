@@ -30,7 +30,7 @@
 <img src="output images/ResNet50_2.png"  width="300"/>
 <br/><br/><br/><br/>
 
-<img src="style and content images/content3.jpg" height="200"/>  +  <img src="style and content images/style3.jpg" height="200"/> =
+<img src="style and content images/content3.jpg" height="250"/>  +  <img src="style and content images/style3.jpg" height="250"/> =
 <br/>
 =
 ## VGG16:<br/> ##
