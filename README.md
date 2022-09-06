@@ -1,7 +1,8 @@
 # Neuron-style-transfer
 
 I have made 3 experiments with different input content and style images.<br>
-All 3 generative output pictures went trough 50 epochs on each CNN.
+All 3 generative output pictures went trough 50 epochs on each CNN:
+Vgg 16, Vgg 19 and ResNet 50
 
 <img src="style and content images/content1.jpg" width="300"/>  +  <img src="style and content images/style1.jpg" alt="total loss" height="300"/> =
 <br/>
