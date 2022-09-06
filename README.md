@@ -7,11 +7,11 @@
 <img src="output images/VGG16_1.png"  width="200"/>
 <br/>
 
-## VGG19:<br/>
+## VGG19:<br/>##
 <img src="output images/VGG19_1.png"  width="200"/>
 <br/>
 
-## ResNet50:<br/>
+## ResNet50:<br/>##
 <img src="output images/ResNet50_1.png"  width="200"/>
 <br/>
 
